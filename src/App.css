@@ -1,0 +1,65 @@
+.App{
+    display: flex;
+    justify-content: center;
+}
+.Box{
+    margin-top:80px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(6, 123, 207);
+    height: 600px;
+    width: 1000px;
+}
+.Cards{
+    display: flex;
+    justify-content: center;
+    height:430px;
+    width:300px;
+    background:white;
+    margin:10px;
+    margin-top:50px;
+    border-radius:10px ;
+}
+.Cards:hover{
+    margin-top:47px;   
+}
+#month{
+    font-size:15px;
+    font-weight: normal;
+}
+.Free{
+    color:rgba(13, 12, 12, 0.49);
+}
+#Plus{
+    color:rgba(13, 12, 12, 0.49);
+}
+h1{
+    margin-left:60px;
+    margin-top:0px;
+}
+h5{
+    margin-left:95px;
+    color:rgba(13, 12, 12, 0.49);
+}
+ul{
+    border-top:1px solid rgba(13, 12, 12, 0.49);
+}
+#cross{
+font-weight: bold;
+margin-right:10px;
+font-size: 20px;
+}
+#tick{
+font-weight: bold;
+margin-right:10px;
+font-size: 20px;
+}
+button{
+    width:250px;
+    height:40px;
+    background-color: rgba(78, 162, 223, 0.936);
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgba(5, 89, 150, 0.936);
+}

@@ -21,7 +21,7 @@
     border-radius:10px ;
 }
 .Cards:hover{
-    margin-top:47px;   
+    margin-top:45px;   
 }
 #month{
     font-size:15px;
@@ -62,4 +62,7 @@ button{
 }
 button:hover{
     background-color: rgba(5, 89, 150, 0.936);
+}
+body{
+    background-color: rgb(6, 123, 207);
 }
